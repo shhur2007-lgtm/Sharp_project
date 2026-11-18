@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="src/PetFamily.API/PetFamily.API.csproj" Id="094f594c-026a-43e8-a283-118a629b64dc" />
+  <Project Path="src/PetFamily.Application/PetFamily.Application.csproj" Id="e9fe0fe4-6de7-438f-88a7-4aa4353e97e9" />
+  <Project Path="src/PetFamily.Domain/PetFamily.Domain.csproj" Id="afbf0bed-b5be-4330-923a-6104f069b572" />
+  <Project Path="src/PetFamily.Infrastructure/PetFamily.Infrastructure.csproj" Id="e6686d5a-0913-499d-9e30-8580bd683051" />
+</Solution>
